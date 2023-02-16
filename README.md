@@ -1,5 +1,5 @@
 # Discord-test-bot
-Very simple discord bot with one command
+Very simple discord bot with one command.
 
 ..................................................................................
 
